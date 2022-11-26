@@ -1,8 +1,5 @@
-<center>
-<h1>💫 About Me:<h1>
-<h3>A student at PSG TECH - M.Sc. Software systems Integrated 2020 - 2025.<h3>
-</center>
-
+<h1 align="center">💫 About Me:<h1>
+<h3 align="center">A student at PSG TECH - M.Sc. Software systems Integrated 2020 - 2025.<h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abishek_a_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abishek-a-509155214) 
