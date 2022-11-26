@@ -1,5 +1,7 @@
-# 💫 About Me:
-A student at PSG TECH - M.Sc. Software systems Integrated 2020 - 2025.
+<center>
+<h1>💫 About Me:<h1>
+<h3>A student at PSG TECH - M.Sc. Software systems Integrated 2020 - 2025.<h3>
+</center>
 
 
 ## 🌐 Socials:
