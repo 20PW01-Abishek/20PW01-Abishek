@@ -1,5 +1,5 @@
 <h1 align="center">👋Welcome<h1>
-<img alt="Coder GIF" display: block; margin-left: auto; margin-right: auto; width: 50%; height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<img alt="Coder GIF" height=400 width=500 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 <h3 align="center">A student at PSG TECH - M.Sc. Software systems Integrated 2020 - 2025.</h3>
 
 ## 🌐 Socials:
