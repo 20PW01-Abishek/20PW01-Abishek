@@ -4,7 +4,6 @@
 </p>
 <h3 align="center">A student at PSG TECH - M.Sc. Software systems Integrated 2020 - 2025.</h3>
 
-<p align="center">
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abishek_a_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abishek-a-509155214) 
   
@@ -23,5 +22,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=20PW01-Abishek&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  </p>
