@@ -26,9 +26,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=20PW01-Abishek&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## ✍️ Get Inspired Now!
-<p align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-</p>
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=20PW01-Abishek&icon=0&color=0)](https://visitcount.itsvg.in)
