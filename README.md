@@ -1,8 +1,9 @@
-<h1 align="center">👋Welcome<h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELCOME+TO+MY+WORLD)](https://git.io/typing-svg)
 <p align="center">
   <img alt="Coder GIF" height=400 width=500 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 </p>
 <h3 align="center">A student at PSG TECH - M.Sc. Software systems Integrated 2020 - 2025.</h3>
+<h3 align="center">A passionate programming enthusiast</h3>
 
 ## 🌐 Socials:
   
