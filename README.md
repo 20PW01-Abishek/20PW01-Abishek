@@ -1,4 +1,4 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&duration=4000&pause=1000&color=15F7A2&center=true&vCenter=true&width=1200&lines=WELCOME+TO+MY+WORLD;A+student+at+PSG+TECH+-+M.Sc.+Software+systems;A+passionate+programming+enthusiast" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&duration=4000&pause=1000&color=15F7A2&center=true&vCenter=true&width=1200&lines=WELCOME!👋;A+student+at+PSG+TECH+-+M.Sc.+Software+systems;A+passionate+programming+enthusiast" alt="Typing SVG" /></a>
 
 <p align="center">
   <img alt="Coder GIF" height=400 width=500 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
