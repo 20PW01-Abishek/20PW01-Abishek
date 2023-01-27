@@ -9,6 +9,8 @@
 <img src="https://komarev.com/ghpvc/?username=20PW01-Abishek&style=flat-square&color=blue" alt=""/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abishek_a_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abishek-a-509155214) 
+<a href="https://www.hackerrank.com/20pw01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kmkarthik97" height="30" width="40" /></a>
+<a href="https://leetcode.com/20pw01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karthik_km" height="30" width="40" /></a>
   
 ## 💻 Tech Stack:
 
