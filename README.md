@@ -1,7 +1,7 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&duration=4000&pause=1000&color=15F7A2&center=true&vCenter=true&width=1200&lines=Hey there!👋 This is Abishek;A+student+at+PSG+TECH+-+M.Sc.+Software+systems;A+passionate+programming+enthusiast" alt="Typing SVG" /></a>
 
 <p align="center">
-  <img alt="Coder GIF" height=200 width=700 src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" />
+  <img alt="Coder GIF" height=250 width=600 src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" />
 </p>
 
 ## 🌐 Socials:
