@@ -1,7 +1,8 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&duration=4000&pause=1000&color=15F7A2&center=true&vCenter=true&width=1200&lines=Hey there!👋 This is Abishek;A+student+at+PSG+TECH+-+M.Sc.+Software+systems;A+passionate+programming+enthusiast" alt="Typing SVG" /></a>
 
 ![Hi](https://github.com/20PW01-Abishek/GameOfHex/blob/main/web-design-layout.gif)
-<img src="https://media.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif" width="40" height="40" />
+<img style="center" src="https://media.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif" width="100" height="100" />
+<img style="center" src="https://github.com/20PW01-Abishek/GameOfHex/blob/main/web-design-layout.gif" width="100" height="100" />
 
 ## 🌐 Socials:
 
