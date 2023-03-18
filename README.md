@@ -1,14 +1,15 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&duration=4000&pause=1000&color=15F7A2&center=true&vCenter=true&width=1200&lines=Hey there!👋 This is Abishek;A+student+at+PSG+TECH+-+M.Sc.+Software+systems;A+passionate+programming+enthusiast" alt="Typing SVG" /></a>
 
 ![Hi](https://github.com/20PW01-Abishek/GameOfHex/blob/main/web-design-layout.gif)
+<img src="https://media.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif" width="40" height="40" />
 
 ## 🌐 Socials:
 
 <img src="https://komarev.com/ghpvc/?username=20PW01-Abishek&style=flat-square&color=blue" alt=""/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abishek_a_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abishek-a-509155214) 
-<a href="https://www.hackerrank.com/20pw01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abishek" height="30" width="40" /></a>
-<a href="https://leetcode.com/20pw01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abishekkarthik_km" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/20pw01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abishek_hackerrank" height="30" width="40" /></a>
+<a href="https://leetcode.com/20pw01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abishek_leetcode" height="30" width="40" /></a>
   
 ## 💻 Tech Stack:
 
