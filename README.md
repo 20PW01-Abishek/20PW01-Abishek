@@ -3,8 +3,8 @@
 ## 🌐 Socials:
 
 <img src="https://komarev.com/ghpvc/?username=20PW01-Abishek&style=flat-square&color=blue" alt=""/> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abishek_a_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abishek-a-509155214) 
-<a href="https://www.hackerrank.com/20pw01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abishek_hackerrank" height="30" width="40" /></a>
-<a href="https://leetcode.com/20pw01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abishek_leetcode" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/20pw01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abishek_hackerrank" height="20" width="20" /></a>
+<a href="https://leetcode.com/20pw01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abishek_leetcode" height="20" width="20" /></a>
   
 ## 💻 Tech Stack:
 
@@ -25,13 +25,8 @@
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
 
-## 📊 GitHub Commits:
-  
-<a href="http://www.github.com/20pw01-Abishek"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=20pw01-Abishek&bg_color=000000&color=facc15&line=84cc16&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 ## 📊 GitHub Stats:
   
-![](https://github-readme-stats.vercel.app/api?username=20PW01-Abishek&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=20PW01-Abishek&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=20PW01-Abishek&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
